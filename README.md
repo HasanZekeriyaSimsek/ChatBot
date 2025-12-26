@@ -2,7 +2,6 @@
 
 Modern ve kullanıcı dostu bir arayüze sahip, Google Gemini API destekli C# WinForms sohbet uygulaması.
 
-![Ekran Görüntüsü](https://via.placeholder.com/800x600?text=ChatBot+Ekran+Goruntusu)
 
 ## Özellikler
 
